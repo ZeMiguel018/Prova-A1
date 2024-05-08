@@ -1,0 +1,13 @@
+<TelaCadastroJogador>
+  <Nome>
+    <label>Nome:</label>
+    <input type="text" id="nomeJogador" />
+  </Nome>
+  <NumeroCamisa>
+    <label>Número da Camisa:</label>
+    <input type="number" id="numeroCamisa" />
+  </NumeroCamisa>
+  <BotaoSalvar>
+    <button id="salvarJogador">Salvar</button>
+  </BotaoSalvar>
+</TelaCadastroJogador>
